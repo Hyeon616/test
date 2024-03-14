@@ -1,0 +1,14 @@
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\bin\Debug\net8.0\20240314.exe
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\bin\Debug\net8.0\20240314.deps.json
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\bin\Debug\net8.0\20240314.runtimeconfig.json
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\bin\Debug\net8.0\20240314.dll
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\bin\Debug\net8.0\20240314.pdb
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\20240314.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\20240314.AssemblyInfoInputs.cache
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\20240314.AssemblyInfo.cs
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\20240314.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\20240314.dll
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\refint\20240314.dll
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\20240314.pdb
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\20240314.genruntimeconfig.cache
+C:\Users\KGA\Desktop\Study\C#\20240314\20240314\obj\Debug\net8.0\ref\20240314.dll
